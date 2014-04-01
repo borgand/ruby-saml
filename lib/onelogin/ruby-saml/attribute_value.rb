@@ -1,5 +1,5 @@
-module OneLogin
-  module RubySaml
+module Onelogin
+  module Saml
 
     # Wrapper for AttributeValue with multiple values
     # It is subclass of String to be backwards compatible
